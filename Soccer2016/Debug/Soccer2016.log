@@ -1,0 +1,3 @@
+﻿  main.cpp
+sfml-system-d.lib(sfml-system-d-2.dll) : fatal error LNK1112: Modul-Computertyp "x64" steht in Konflikt mit dem Zielcomputertyp "X86".
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(637,5): error MSB6006: "link.exe" wurde mit dem Code 1112 beendet.
